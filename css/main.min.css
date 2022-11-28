@@ -3445,7 +3445,9 @@ table#prices tbody tr.feature td span.name {
 .second-pricing-table-container.dedicated-version .second-pricing-table {
     border: 3px solid #dbf4f4;
     border-radius: 25px;
+    
 }
+
 .second-pricing-table-container.dedicated-version .second-pricing-table .second-pricing-table-title {
     font-size: 20px;
 }
